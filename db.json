@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "user": "Divine",
+      "message": "Finished frontend layout.",
+      "time": "11:45 PM"
+    },
+    {
+      "id": 2,
+      "user": "Jane",
+      "message": "Review meeting at 2 PM today.",
+      "time": "1:00 PM"
+    },
+    {
+      "id": 3,
+      "user": "Ade",
+      "message": "Worked on backend to connenct to API!",
+      "time": "12:45 PM"
+    },
+    {
+      "id": "106d",
+      "user": "Shola",
+      "message": "Thinking about building a co-working space for Africa tech talent to access and work cooperatively.",
+      "time": "02:27 PM"
+    }
+  ]
+}
